@@ -9,7 +9,7 @@ Memory  | 1GB RAM
 Shipped Android Version | 5.0
 Storage | 32GB
 Display | 10.1" 1280 x 800 px
-Camera  | 8MPx, LED Flash
+Camera  | 2MPx, No Flash
 
 This branch is for building TWRP 3.0 and hopefully soon CyanogenMod (or CM based) ROMS.
 
